@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "SC",
+    "S "
+  ],
+  "key":{
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "tag": "minecraft:carpets"
+    }
+  },
+  "result":{
+    "item": "hattimod:mine_flag",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "hattimod:block/minesweeper_bomb"
+    }
+  }
+}
