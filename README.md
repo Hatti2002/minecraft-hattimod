@@ -7,9 +7,9 @@
 ##ソースファイルの場所
 
 - メイン: src/main/java/com/JuntaroHatta20021215/hattimod/HattiMod.java
-- 迷路作成: src/main/java/com/JuntaroHatta20021215/hattimod/CreateMaze.java
-- マインスイーパー作成: src/main/java/com/JuntaroHatta20021215/hattimod/MineSweeper.java
-- マインスイーパー盤面情報保存: src/main/java/com/JuntaroHatta20021215/hattimod/MinesweeperSavedData.java
-- マインスイーパー旗アイテム機能実装: src/main/java/com/JuntaroHatta20021215/hattimod/MineFlag.java
-- アイテム・ブロック追加: src/main/java/com/JuntaroHatta20021215/hattimod/ItemsAndBrocks.java
-- 機能付きスティック実装: src/main/java/com/JuntaroHatta20021215/hattimod/HattiStick.java
+- 迷路作成: hattimod/CreateMaze.java
+- マインスイーパー作成: hattimod/MineSweeper.java
+- マインスイーパー盤面情報保存: hattimod/MinesweeperSavedData.java
+- マインスイーパー旗アイテム機能実装: hattimod/MineFlag.java
+- アイテム・ブロック追加: hattimod/ItemsAndBrocks.java
+- 機能付きスティック実装: hattimod/HattiStick.java
