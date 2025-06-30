@@ -13,3 +13,6 @@
 - マインスイーパー旗アイテム機能実装: hattimod/MineFlag.java
 - アイテム・ブロック追加: hattimod/ItemsAndBrocks.java
 - 機能付きスティック実装: hattimod/HattiStick.java
+
+## ソースの最終更新
+- 2025/6/28
